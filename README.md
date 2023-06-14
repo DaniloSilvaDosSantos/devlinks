@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src=".github/preview.png" alt="Demonstração do projeto." width="100%"/>
+  <img src=".github/cover.png" alt="Demonstração do projeto." width="100%"/>
 <p>
 
 ## 🖥️ Projeto
@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript;
 - Git e GitHub;
 
-## :memo Licença
+## Licença
 
 Este projeto está sobre a licença MIT.
 
