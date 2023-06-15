@@ -204,17 +204,6 @@ footer a{
     font-weight: 500;
 }
 
-/* media queries */
-@media (min-width:700px){
-    :root{
-        --bg-url: url("assets/backgroud-desktop.jpg");
-    }
-
-    .light{
-        --bg-url: url("assets/backgroud-desktop-light.jpg");
-    }
-}
-
 /* animation */
 @keyframes slide-In{
     from{
