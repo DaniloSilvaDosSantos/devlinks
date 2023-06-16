@@ -3,11 +3,11 @@
   <img src=".github/cover.png" alt="Demonstração do projeto." width="100%"/>
 <p>
 
-## 🖥️ Projeto
+## Projeto
 
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. O DevLinks se trata de um agregador de links para usar como cartão de visitas online.
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -20,7 +20,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto está sobre a licença MIT.
 
-## 🏷️ Layout
+## Créditos
+
+- [Bag favicon created by Dimitri Miroliubov, Flaticon](https://www.flaticon.com/free-icons/bag)
+
+## Layout
 
 Você pode acessar o layout deste projeto através
 [desse link](<https://www.figma.com/file/RMq7zHaJPuTbNONkb1lKwu/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10-620&t=5go9c2FXqmUokdlA-0>).
